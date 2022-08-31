@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saloni</h1>
-<h3 align="center">Python Developer</h3>
+<h3 align="center">Blockchain Developer</h3>
 
-- 🌱 I’m currently learning **Blockchain Development and DevOps**
+- 🌱 I’m currently learning **Blockchain Development **
 
 - 💬 Ask me about **Startup and tech related stuff.**
 
-- 📫 How to reach me **salonisingh0419@gmail.com**
+- 📫 How to reach me **salonisingh0401@gmail.com**
 
 - ⚡ Fun fact **I use Tab instead of Space.**
 
