@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **BlockChain Technology.**
 
-- 💬 Ask me about **Startup and tech realted stuff.**
+- 💬 Ask me about **Startup and tech related stuff.**
 
 - 📫 How to reach me **salonisingh0401@gmail.com**
 
