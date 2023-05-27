@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saloni0419&label=Profile%20views&color=0e75b6&style=flat" alt="saloni0419" /> </p>
 
-- 🌱 I’m currently learning more into **Full Stack Development**
+- 🌱 I’m currently learning more into **Full Stack Development & Blockchain Development**
 
 - 💬 Ask me about **Startup and tech related stuff.**
 
